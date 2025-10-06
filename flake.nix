@@ -48,7 +48,7 @@
             # remember to bump this hash when your dependencies change.
             # vendorHash = pkgs.lib.fakeHash;
 
-            vendorHash = "sha256-oHEcpu3QvcVC/YCtGtP7nNT9++BSU8BPT5pf8NdLrOo=";
+            vendorHash = "sha256-SRLhlR8qFx+cvJtWXfInE6xm/RfV4A/zfZK20esLbro=";
 
             nativeBuildInputs = with pkgs; [ pkg-config scdoc ];
 
